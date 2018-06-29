@@ -1,0 +1,47 @@
+
+
+.f-element{
+
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+.jumbotron{
+  background-image: url(3.jpg);
+  background-size: cover;
+}
+
+.books-result-container{
+  padding : 15px;
+}
+
+.display-4{
+  font-family: 'Architects Daughter';
+  font-size: 25px;
+}
+.lead{
+  font-family: 'Baumans';
+  font-size: 30px;
+}
+
+
+.result-img{
+  height: 400px !important;
+
+}
+.result-book-card{
+  margin-bottom: 15px;
+}
+
+#footer{
+  position : absolute;
+  right : 0;
+  left : 0;
+  bottom : 0;
+  padding : 2rem;
+  color : black;
+  background-color : grey;
+  text-align : center;
+
+
+
+}
